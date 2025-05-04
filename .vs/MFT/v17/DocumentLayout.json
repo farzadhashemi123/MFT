@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.dataaccesslayer\\migrations\\20250414035041_addstudentincourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|solutionrelative:mft.dataaccesslayer\\migrations\\20250414035041_addstudentincourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.dataaccesslayer\\repositories\\studentsofcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|solutionrelative:mft.dataaccesslayer\\repositories\\studentsofcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.dataaccesslayer\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|solutionrelative:mft.dataaccesslayer\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.dataaccesslayer\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|solutionrelative:mft.dataaccesslayer\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.dataaccesslayer\\repositories\\contracts\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|solutionrelative:mft.dataaccesslayer\\repositories\\contracts\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.dataaccesslayer\\repositories\\contracts\\istudentsofcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|solutionrelative:mft.dataaccesslayer\\repositories\\contracts\\istudentsofcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.dataaccesslayer\\repositories\\contracts\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|solutionrelative:mft.dataaccesslayer\\repositories\\contracts\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.dataaccesslayer\\entities\\studentsofcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|solutionrelative:mft.dataaccesslayer\\entities\\studentsofcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.presentationlayer\\formcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|solutionrelative:mft.presentationlayer\\formcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.businesslogiclayer\\dtos\\courses\\addcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|solutionrelative:mft.businesslogiclayer\\dtos\\courses\\addcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|C:\\Users\\20\\Desktop\\FinalProject\\MFT\\mft.presentationlayer\\formcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|solutionrelative:mft.presentationlayer\\formcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.presentationlayer\\formteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|solutionrelative:mft.presentationlayer\\formteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|C:\\Users\\20\\Desktop\\FinalProject\\MFT\\mft.presentationlayer\\formteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|solutionrelative:mft.presentationlayer\\formteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.businesslogiclayer\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|solutionrelative:mft.businesslogiclayer\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.businesslogiclayer\\dtos\\teacherdto\\updateteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|solutionrelative:mft.businesslogiclayer\\dtos\\teacherdto\\updateteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|C:\\Users\\20\\Desktop\\FinalProject\\MFT\\mft.presentationlayer\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|solutionrelative:mft.presentationlayer\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.presentationlayer\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F815AF-FF86-4702-8A93-A524F3D942F1}|MFT.PresentationLayer\\MFT.PresentationLayer.csproj|solutionrelative:mft.presentationlayer\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.businesslogiclayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|solutionrelative:mft.businesslogiclayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.businesslogiclayer\\dtos\\teacherdto\\getallteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|solutionrelative:mft.businesslogiclayer\\dtos\\teacherdto\\getallteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.businesslogiclayer\\dtos\\courses\\getallcoursesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CADD90-FBA3-4A86-B065-262BF0621C68}|MFT.BusinessLogicLayer\\MFT.BusinessLogicLayer.csproj|solutionrelative:mft.businesslogiclayer\\dtos\\courses\\getallcoursesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|c:\\users\\20\\desktop\\finalproject\\mft\\mft.dataaccesslayer\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5EBD89-D244-47C4-BC66-DCBFE8383AF3}|MFT.DataAccessLayer\\MFT.DataAccessLayer.csproj|solutionrelative:mft.dataaccesslayer\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250414035041_AddStudentInCourse.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Migrations\\20250414035041_AddStudentInCourse.cs",
+              "RelativeDocumentMoniker": "MFT.DataAccessLayer\\Migrations\\20250414035041_AddStudentInCourse.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Migrations\\20250414035041_AddStudentInCourse.cs",
+              "RelativeToolTip": "MFT.DataAccessLayer\\Migrations\\20250414035041_AddStudentInCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:50:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\Contracts\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "MFT.DataAccessLayer\\Repositories\\Contracts\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\Contracts\\ICourseRepository.cs",
+              "RelativeToolTip": "MFT.DataAccessLayer\\Repositories\\Contracts\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:37:22.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "MFT.DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "MFT.DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:33:54.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "MFT.DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "MFT.DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:33:47.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\Contracts\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "MFT.DataAccessLayer\\Repositories\\Contracts\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\Contracts\\IStudentRepository.cs",
+              "RelativeToolTip": "MFT.DataAccessLayer\\Repositories\\Contracts\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:32:14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentsOfCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\Contracts\\IStudentsOfCourseRepository.cs",
+              "RelativeDocumentMoniker": "MFT.DataAccessLayer\\Repositories\\Contracts\\IStudentsOfCourseRepository.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\Contracts\\IStudentsOfCourseRepository.cs",
+              "RelativeToolTip": "MFT.DataAccessLayer\\Repositories\\Contracts\\IStudentsOfCourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:32:02.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsOfCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\StudentsOfCourseRepository.cs",
+              "RelativeDocumentMoniker": "MFT.DataAccessLayer\\Repositories\\StudentsOfCourseRepository.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\StudentsOfCourseRepository.cs",
+              "RelativeToolTip": "MFT.DataAccessLayer\\Repositories\\StudentsOfCourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:31:01.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsOfCourse.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Entities\\StudentsOfCourse.cs",
+              "RelativeDocumentMoniker": "MFT.DataAccessLayer\\Entities\\StudentsOfCourse.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Entities\\StudentsOfCourse.cs",
+              "RelativeToolTip": "MFT.DataAccessLayer\\Entities\\StudentsOfCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:29:04.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Dtos\\Courses\\AddCourseDto.cs",
+              "RelativeDocumentMoniker": "MFT.BusinessLogicLayer\\Dtos\\Courses\\AddCourseDto.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Dtos\\Courses\\AddCourseDto.cs",
+              "RelativeToolTip": "MFT.BusinessLogicLayer\\Dtos\\Courses\\AddCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:19:09.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormCourse.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormCourse.cs",
+              "RelativeDocumentMoniker": "MFT.PresentationLayer\\FormCourse.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormCourse.cs",
+              "RelativeToolTip": "MFT.PresentationLayer\\FormCourse.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:18:33.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCourse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormCourse.cs",
+              "RelativeDocumentMoniker": "MFT.PresentationLayer\\FormCourse.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormCourse.cs [Design]",
+              "RelativeToolTip": "MFT.PresentationLayer\\FormCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:18:15.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormStudent.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormStudent.cs",
+              "RelativeDocumentMoniker": "MFT.PresentationLayer\\FormStudent.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormStudent.cs",
+              "RelativeToolTip": "MFT.PresentationLayer\\FormStudent.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAMwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:56:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormTeacher.cs",
+              "RelativeDocumentMoniker": "MFT.PresentationLayer\\FormTeacher.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormTeacher.cs [Design]",
+              "RelativeToolTip": "MFT.PresentationLayer\\FormTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:44:16.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "MFT.BusinessLogicLayer\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Services\\TeacherService.cs",
+              "RelativeToolTip": "MFT.BusinessLogicLayer\\Services\\TeacherService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:16:22.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAllTeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Dtos\\TeacherDto\\GetAllTeacherDto.cs",
+              "RelativeDocumentMoniker": "MFT.BusinessLogicLayer\\Dtos\\TeacherDto\\GetAllTeacherDto.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Dtos\\TeacherDto\\GetAllTeacherDto.cs",
+              "RelativeToolTip": "MFT.BusinessLogicLayer\\Dtos\\TeacherDto\\GetAllTeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:16:45.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormTeacher.cs",
+              "RelativeDocumentMoniker": "MFT.PresentationLayer\\FormTeacher.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormTeacher.cs",
+              "RelativeToolTip": "MFT.PresentationLayer\\FormTeacher.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAG4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:58:22.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormStudent.cs",
+              "RelativeDocumentMoniker": "MFT.PresentationLayer\\FormStudent.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.PresentationLayer\\FormStudent.cs [Design]",
+              "RelativeToolTip": "MFT.PresentationLayer\\FormStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:23:56.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateTeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Dtos\\TeacherDto\\UpdateTeacherDto.cs",
+              "RelativeDocumentMoniker": "MFT.BusinessLogicLayer\\Dtos\\TeacherDto\\UpdateTeacherDto.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Dtos\\TeacherDto\\UpdateTeacherDto.cs",
+              "RelativeToolTip": "MFT.BusinessLogicLayer\\Dtos\\TeacherDto\\UpdateTeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:38:57.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "MFT.BusinessLogicLayer\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Services\\StudentService.cs",
+              "RelativeToolTip": "MFT.BusinessLogicLayer\\Services\\StudentService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:23:29.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "MFT.DataAccessLayer\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.DataAccessLayer\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "MFT.DataAccessLayer\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:20:49.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllCoursesDto.cs",
+              "DocumentMoniker": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Dtos\\Courses\\GetAllCoursesDto.cs",
+              "RelativeDocumentMoniker": "MFT.BusinessLogicLayer\\Dtos\\Courses\\GetAllCoursesDto.cs",
+              "ToolTip": "C:\\Users\\20\\Desktop\\FinalProject\\MFT\\MFT.BusinessLogicLayer\\Dtos\\Courses\\GetAllCoursesDto.cs",
+              "RelativeToolTip": "MFT.BusinessLogicLayer\\Dtos\\Courses\\GetAllCoursesDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:18:43.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

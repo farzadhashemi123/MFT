@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.PresentationLayer/MFT.PresentationLayer.csproj": {}
+  },
+  "projects": {
+    "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.BusinessLogicLayer/MFT.BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.BusinessLogicLayer/MFT.BusinessLogicLayer.csproj",
+        "projectName": "MFT.BusinessLogicLayer",
+        "projectPath": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.BusinessLogicLayer/MFT.BusinessLogicLayer.csproj",
+        "packagesPath": "/Users/farzad/.nuget/packages/",
+        "outputPath": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.BusinessLogicLayer/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/farzad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.DataAccessLayer/MFT.DataAccessLayer.csproj": {
+                "projectPath": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.DataAccessLayer/MFT.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/farzad/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.DataAccessLayer/MFT.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.DataAccessLayer/MFT.DataAccessLayer.csproj",
+        "projectName": "MFT.DataAccessLayer",
+        "projectPath": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.DataAccessLayer/MFT.DataAccessLayer.csproj",
+        "packagesPath": "/Users/farzad/.nuget/packages/",
+        "outputPath": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.DataAccessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/farzad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/farzad/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.PresentationLayer/MFT.PresentationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.PresentationLayer/MFT.PresentationLayer.csproj",
+        "projectName": "MFT.PresentationLayer",
+        "projectPath": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.PresentationLayer/MFT.PresentationLayer.csproj",
+        "packagesPath": "/Users/farzad/.nuget/packages/",
+        "outputPath": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.PresentationLayer/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/farzad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.BusinessLogicLayer/MFT.BusinessLogicLayer.csproj": {
+                "projectPath": "/Users/farzad/Desktop/Main/FinalProject1 C#/MFT/MFT.BusinessLogicLayer/MFT.BusinessLogicLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/farzad/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
